@@ -330,3 +330,72 @@ nav .navigation-content a{
     flex-shrink: 0;
     margin-top: 2px; 
 }
+#Early-Access{
+    width: 1600px;
+    height: 506px;
+    padding: 2px 120px 120px 120px;
+    gap: 40px;
+    background-color: #FFFFFF;
+}
+#Early-Access .container-2{
+    width: 1360px;
+    height: 384px;
+    border-radius: 12px;
+    padding: 80px 40px 80px 40px;
+    gap: 24px;
+    background-color: #F7F6F2;
+}
+#Early-Access .first-content{
+    width: 1280px;
+    height: 112px;
+    gap: 16px;
+}
+#Early-Access .first-content h2{
+    width: 1280px;
+    height: 48px;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #001931;
+}
+#Early-Access .first-content p{
+    width: 1280px;
+    height: 48px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #627382;
+    padding: 16px 0px 24px 0px;
+
+}
+#Early-Access .Second-content{
+    width: 1280px;
+    height: 88px;
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+#Early-Access .Second-content .btn{
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+#Early-Access .Second-content p{
+    width: 1280px;
+    height: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    text-align: center;
+    color: #627382;
+}
