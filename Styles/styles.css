@@ -160,6 +160,7 @@ nav .navigation-content a{
     height: 448px;
     padding: 120px 120px 120px;
     gap: 44px;
+    background-color: #FFFFFF;
 }
 #Notes .Notes-title{
     width: 1360px;
@@ -202,12 +203,13 @@ nav .navigation-content a{
     height: 300px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
     gap: 16px;
     padding: 24px;
     border-radius: 8px;
-    
+    box-shadow: 0px 4px 12px 0px #00000014; 
+    background-color: #FFFFFF;
     
 
 }
@@ -255,6 +257,7 @@ nav .navigation-content a{
     gap: 60px;
     display: flex; 
     align-items: center;
+    padding: 120px;
     
 }
 
@@ -262,16 +265,12 @@ nav .navigation-content a{
     width: 600px;
     height: 600px;
     border-radius: 12px;
+    padding: 0px 60px 0px 0px;
 }
 #Brain .solution-content {
     width: 700px;
     height: 396px;
     gap: 40px;
-    
-    
-    
-    
-
 }
 
 #Brain .solution-label{
